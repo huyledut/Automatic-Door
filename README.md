@@ -1,5 +1,5 @@
-# Cửa thông minh
-<strong>Cửa thông minh</strong>  là hệ thống sử dụng các motor và bo mạch điều khiển cửa, khi vật cản đi vào vùng quét của cửa thì sẽ mở ra, sau một khoảng thời gian nếu cửa không cảm nhận được vật cản thì sẽ tự động đóng lại. Chúng ta chỉ cần đi đến gần cửa và việc còn lại cửa tự động sẽ thực hiện. Ngoài ra còn có thể điều khiển từ xa bằng remote
+# Automatic-Door
+<strong>Automatic-Door</strong>  là hệ thống sử dụng các motor và bo mạch điều khiển cửa, khi vật cản đi vào vùng quét của cửa thì sẽ mở ra, sau một khoảng thời gian nếu cửa không cảm nhận được vật cản thì sẽ tự động đóng lại. Chúng ta chỉ cần đi đến gần cửa và việc còn lại cửa tự động sẽ thực hiện. Ngoài ra còn có thể điều khiển từ xa bằng remote
 
 ### Thành phần:
 - Arduino UNO
@@ -16,12 +16,12 @@
 
 ---
 
-## 🔹 Sơ đồ mạch
+## 🔹 Sơ đồ mạch nhận
 <p align="center">
   <img src="./So Do Mach - Nhan.png" alt="Sơ đồ mạch nhận" width="600"/>
 </p>
 
-## 🔹 Sơ đồ mạch
+## 🔹 Sơ đồ mạch phát
 <p align="center">
   <img src="./So Do Mach - Phat.png" alt="Sơ đồ mạch phát" width="600"/>
 </p>2303
