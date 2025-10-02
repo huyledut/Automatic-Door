@@ -9,6 +9,23 @@
 - Cảm biến tiệm cận
 - Button, LED, và một số dây dẫn
 
+## 🔹 Nguyên lý hoạt động
+<p align="center">
+  <img src="./Nguyen Ly.png" alt="Nguyên lý hoạt động" width="600"/>
+</p>
+
+---
+
+## 🔹 Sơ đồ mạch
+<p align="center">
+  <img src="./So Do Mach - Nhan.png" alt="Sơ đồ mạch nhận" width="600"/>
+</p>
+
+## 🔹 Sơ đồ mạch
+<p align="center">
+  <img src="./So Do Mach - Phat.png" alt="Sơ đồ mạch phát" width="600"/>
+</p>2303
+
 ### Hướng đẫn cài đặt
 - Mở file mã nguồn bằng phần mềm Arduino IDE(bao gồm mã nguồn của hệ thống và điều khiển từ xa)
 - Chọn BOARD(Arduino Uno) và PORT(COMX) với COMX là đầu kết nối giữa LAPTOP (PC) với bo mạch 
